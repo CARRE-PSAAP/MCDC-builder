@@ -20,7 +20,7 @@ MCDC_DIR="$WORKSPACE/MCDC"
 # Setups - GPU mode
 # =============================================================================
 
-NO_GPU="false"
+NO_GPU="true"
 
 # Harmonize branch
 HARMONIZE_BRANCH="global_array_fields"
